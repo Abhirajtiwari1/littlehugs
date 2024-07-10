@@ -1,6 +1,9 @@
 # LittleHugs
 
-LittleHugs is an e-commerce platform designed to cater to the needs of pregnant women by offering a wide range of prepartum and postpartum products. In addition to shopping, LittleHugs aims to provide essential services, support, and emergency assistance to expectant mothers.
+LittleHugs is an e-commerce platform designed to cater to the needs of pregnant women by offering a wide range of prepartum and postpartum products. In addition to shopping, LittleHugs aims to provide essential services, support, and emergency assistance to expectant mothers. 
+## Live Demo
+
+Check out the live demo of LittleHugs here: [LittleHugs on Netlify](https://littlehugs.netlify.app/)
 
 ## Features
 
