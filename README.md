@@ -52,4 +52,4 @@ For any questions or suggestions, please contact:
 Thank you for your interest in LittleHugs! 
 
 ## More Info
-- [Project Presentation](./)
+- [Project Presentation](./SIH2.pdf)
