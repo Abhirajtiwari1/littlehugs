@@ -49,7 +49,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 For any questions or suggestions, please contact:
 
-- Abhiraj Tiwari
+- abhirajtiwari189@gmail.com
 - GitHub: [Abhirajtiwari1](https://github.com/Abhirajtiwari1)
 
 Thank you for your interest in LittleHugs! 
